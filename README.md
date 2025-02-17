@@ -1,6 +1,6 @@
 ## REACT NATIVE POKEDEX_APP
 
-![image alt][https://github.com/sebastiancharris21/PokeAPP/blob/7b9428e8a4f6d2cee670883ee41a032e2ad45953/screen_1.PNG]
+![image alt](https://github.com/sebastiancharris21/PokeAPP/blob/7b9428e8a4f6d2cee670883ee41a032e2ad45953/screen_1.PNG)
 
 ## Acerca del proyecto:
 Se implemento Expo y JavaScripts. La idea principal de mostrar una lista de Pokémons y una pagina de detalles para que el usuario pueda ver y guardar localmente su pokemon favorito.
