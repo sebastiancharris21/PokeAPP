@@ -1,7 +1,5 @@
 ## REACT NATIVE POKEDEX_APP
-<div width="400" height="400">
   ![image alt](https://github.com/sebastiancharris21/PokeAPP/blob/7b9428e8a4f6d2cee670883ee41a032e2ad45953/screen_2.PNG)
-</div>
 
 ## Acerca del proyecto:
 Se implemento Expo y JavaScripts. La idea principal de mostrar una lista de Pokémons y una pagina de detalles para que el usuario pueda ver y guardar localmente su pokemon favorito.
@@ -15,4 +13,4 @@ Esta aplicacion fue creada como parte de una series de Curso de REACT NATIVE en 
 - Yup: Generar de esquemas de JavaScript y validacion de valores para formularios.
 
   ## APi
-  - Pokemon-Api:  Api RestFul de pokemones 
+  - ![Pokemos-API](https://www.pokemon.com/el/pokedex):  Api RestFul de pokemones 
